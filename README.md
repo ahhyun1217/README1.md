@@ -65,6 +65,7 @@ x : 터미널이 없는 프로세스를 출력한다.
 - jobs명령어는 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경되었지만 보고되지 않은 상태 등을 표시한다.
 
 아래와 같은 방법으로 사용
+
 ![캡쳐2](https://user-images.githubusercontent.com/106646157/171816885-fa87dfbb-b940-449d-a921-8bdf91447b56.jpg)
 
 -l : 프로세스 그룹 ID를 state 필드 앞에 출력한다.
@@ -80,6 +81,7 @@ command : 지정한 명령어를 실행한다.
 > **리눅스 명령어_kill**
 
 아래와 같은 방법으로 사용
+
 ![캡처1](https://user-images.githubusercontent.com/106646157/171816339-da1eb197-0aff-48f2-9087-4c1db757522c.jpg)
 
 
